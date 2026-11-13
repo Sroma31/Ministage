@@ -7,7 +7,7 @@ if exist "%TARGET%" (
 
 rem Clona il repository nella cartella corretta
 
-git clone https://github.com/prof-lucapulga/Ministage-ITTBlaisePascal.git "%TARGET%"
+git clone https://github.com/Sroma31/Ministage.git "%TARGET%"
 
 rem Verifica che la cartella sia stata creata
 if exist "%TARGET%" (
